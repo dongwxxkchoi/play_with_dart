@@ -1,0 +1,9 @@
+venv
+.vscode
+data
+.idea
+__pycache__
+scratch
+
+test*.csv
+.DS_Store
